@@ -19,3 +19,4 @@ Here are some ideas to extend this work:
 
 ## Articles About this Project
 - Data Acquisition: Scraping Real-Estate Data with Scrapy (Coming soon)
+https://developer.nvidia.com/blog/scraping-real-estate-sites-for-data-acquisition-with-scrapy/?ncid=so-twit-569972-vt27&=&linkId=100000170910146#cid=an01_so-twit_en-us
